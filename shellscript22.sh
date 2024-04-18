@@ -9,3 +9,8 @@ rm "$2"
 else
 echo "The contents of $1 and $2 are different."
 Fi
+
+output
+------
+mlm@mlm-OptiPlex-3020:~/Desktop/suhana/networking$ ./shellscript22.sh reverse.sh area.sh
+The contents of reverse.sh and area.sh are different.
